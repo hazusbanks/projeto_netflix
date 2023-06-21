@@ -1,4 +1,4 @@
-		-- Netfli--
+		-- Netflix--
             
 CREATE DATABASE IF NOT EXISTS db_netflix
 COLLATE utf8mb4_general_ci 
